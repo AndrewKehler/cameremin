@@ -1,4 +1,4 @@
-This project was a final for a Computer Science and Music course. All code was written by Andrew Kehler, the max patch was developed by Tyler Kettner.
+This project was a final for a Computer Science and Music course. All code was written by Andrew Kehler, the max patch was developed by Tyler Kettner. Please read the paper entitled "The Cameremin (Camera Theremin)" for more infortmation about the process and inner workings.
 
 To run the code run the "main.py" file. Press "q" to close the camera and stop the file.
 
